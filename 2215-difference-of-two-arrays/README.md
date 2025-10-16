@@ -1,6 +1,6 @@
 # 2215. Find the Difference of Two Arrays
 
-## 🧩 Problem Description
+## Problem Description
 
 Given two **0-indexed** integer arrays `nums1` and `nums2`, return a list `answer` of size 2 where:
 
@@ -11,7 +11,7 @@ Given two **0-indexed** integer arrays `nums1` and `nums2`, return a list `answe
 
 ---
 
-## 🔍 Example
+## Example
 
 ### Example 1
 
@@ -39,14 +39,14 @@ Given two **0-indexed** integer arrays `nums1` and `nums2`, return a list `answe
 
 ---
 
-## ⚙️ Constraints
+## Constraints
 
 - `1 <= nums1.length, nums2.length <= 1000`  
 - `-1000 <= nums1[i], nums2[i] <= 1000`
 
 ---
 
-## 💡 Approach
+## Approach
 
 This solution uses a **simple iteration** approach with final **set conversion** to remove duplicates.
 
@@ -56,7 +56,7 @@ This solution uses a **simple iteration** approach with final **set conversion**
 
 ---
 
-## 🧠 Code Implementation (Python)
+## Code Implementation (Python)
 
 ```python
 class Solution:
