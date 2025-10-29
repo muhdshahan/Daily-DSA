@@ -80,4 +80,4 @@ class Solution:
 
 ## Acceptance
 
-![Acceptance](https://github.com/muhdshahan/Daily-DSA/blob/main/Git/Acceptance.png)
+![Acceptance](https://github.com/muhdshahan/Daily-DSA/blob/main/3712-sum-of-elements-with-freq-divisible-by-k/Acceptance.png)
