@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
