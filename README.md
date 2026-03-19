@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
