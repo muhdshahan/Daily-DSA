@@ -9,5 +9,4 @@ class Solution:
                     if i!=j and nums[j]==2:
                         if abs(i-j)<min_diff:
                             min_diff=abs(i-j)
-                            print(min_diff)
         return min_diff
