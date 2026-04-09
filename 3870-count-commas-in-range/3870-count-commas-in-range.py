@@ -6,5 +6,3 @@ class Solution:
         rslt = 0
         if len(n)>=4 and len(n)<7:
             return int(n)-999
-        if len(n)==7:
-            return int(n)-999999
