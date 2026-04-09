@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
+| [3856-trim-trailing-vowels](https://github.com/muhdshahan/Daily-DSA/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muhdshahan/Daily-DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
 |  |
