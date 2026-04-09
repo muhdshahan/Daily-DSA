@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhdshahan/Daily-DSA/tree/master/0009-palindrome-number) |
+| [3870-count-commas-in-range](https://github.com/muhdshahan/Daily-DSA/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
