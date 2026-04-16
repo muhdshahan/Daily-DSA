@@ -15,6 +15,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/muhdshahan/Daily-DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
@@ -22,6 +23,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@
 ## Counting
 |  |
 | ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
 ## Database
 |  |
