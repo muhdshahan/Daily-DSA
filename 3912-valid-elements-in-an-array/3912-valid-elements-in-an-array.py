@@ -3,7 +3,6 @@ class Solution:
         if len(nums)<3:
             return nums
         rslt = [nums[0]]
-        print(rslt)
         for i in range(1,len(nums)-1):
             left_max = max(nums[:i])
             right_max = max(nums[i+1:])
