@@ -11,5 +11,4 @@ class Solution:
             elif right_max and nums[i]>right_max:
                 rslt.append(nums[i])
         rslt.append(nums[-1])
-        print(rslt)
         return rslt
