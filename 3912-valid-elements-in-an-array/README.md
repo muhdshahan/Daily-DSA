@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-elements-in-an-array">4290. Valid Elements in an Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/valid-elements-in-an-array/">3912. Valid Elements in an Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>An element <code>nums[i]</code> is considered <strong>valid</strong> if it satisfies <strong>at least</strong> one of the following conditions:</p>
 
