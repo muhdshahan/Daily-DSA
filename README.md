@@ -22,6 +22,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -30,6 +31,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
@@ -55,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/muhdshahan/Daily-DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/muhdshahan/Daily-DSA/tree/main/3798-largest-even-number/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/muhdshahan/Daily-DSA/tree/master/3813-vowel-consonant-score) |
