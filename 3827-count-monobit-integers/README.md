@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-monobit-integers">3827. Count Monobit Integers</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-monobit-integers">4194. Count Monobit Integers</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>An integer is called <strong>Monobit</strong> if all bits in its binary representation are the same.</p>
 
