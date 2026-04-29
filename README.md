@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-count-monobit-integers](https://github.com/muhdshahan/Daily-DSA/tree/main/3827-count-monobit-integers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/muhdshahan/Daily-DSA/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/muhdshahan/Daily-DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/muhdshahan/Daily-DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Simulation
