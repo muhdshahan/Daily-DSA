@@ -15,6 +15,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3833-count-dominant-indices](https://github.com/muhdshahan/Daily-DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
@@ -84,6 +85,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3833-count-dominant-indices](https://github.com/muhdshahan/Daily-DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/muhdshahan/Daily-DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
