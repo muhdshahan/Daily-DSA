@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
+| [3803-count-residue-prefixes](https://github.com/muhdshahan/Daily-DSA/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/muhdshahan/Daily-DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/muhdshahan/Daily-DSA/tree/main/3798-largest-even-number/) | Easy |
+| [3803-count-residue-prefixes](https://github.com/muhdshahan/Daily-DSA/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/muhdshahan/Daily-DSA/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/muhdshahan/Daily-DSA/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muhdshahan/Daily-DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
