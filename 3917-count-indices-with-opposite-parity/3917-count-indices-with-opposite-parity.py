@@ -1,11 +1,6 @@
 class Solution:
     def countOppositeParity(self, nums: list[int]) -> list[int]:
-        parity = []
-        for i in range(len(nums)):
-            if nums[i]%2==0:
-                parity.append("even")
-            else:
-                parity.append("odd")
+        parity = ["even" if nums[i]%2==0 else "odd" for i in range(len(nums))]
         rslt = []
         for i in range(len(parity)-1):
             count = 0
