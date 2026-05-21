@@ -69,6 +69,7 @@
 | [3813-vowel-consonant-score](https://github.com/muhdshahan/Daily-DSA/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/muhdshahan/Daily-DSA/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muhdshahan/Daily-DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/muhdshahan/Daily-DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
