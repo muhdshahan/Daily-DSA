@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/muhdshahan/Daily-DSA/tree/master/0009-palindrome-number) |
 | [3870-count-commas-in-range](https://github.com/muhdshahan/Daily-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhdshahan/Daily-DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/muhdshahan/Daily-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/muhdshahan/Daily-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
