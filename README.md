@@ -17,6 +17,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muhdshahan/Daily-DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/muhdshahan/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/muhdshahan/Daily-DSA/tree/main/3833-count-dominant-indices/) | Easy |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/muhdshahan/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/muhdshahan/Daily-DSA/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
