@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/muhdshahan/Daily-DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muhdshahan/Daily-DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
