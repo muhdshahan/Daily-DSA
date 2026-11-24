@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0575-distribute-candies](https://github.com/muhdshahan/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muhdshahan/Daily-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0575-distribute-candies](https://github.com/muhdshahan/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0771-jewels-and-stones](https://github.com/muhdshahan/Daily-DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muhdshahan/Daily-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
