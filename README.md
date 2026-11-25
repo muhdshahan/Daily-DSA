@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muhdshahan/Daily-DSA/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/muhdshahan/Daily-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muhdshahan/Daily-DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muhdshahan/Daily-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/muhdshahan/Daily-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muhdshahan/Daily-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -19,6 +20,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muhdshahan/Daily-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/muhdshahan/Daily-DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muhdshahan/Daily-DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muhdshahan/Daily-DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muhdshahan/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
