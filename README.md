@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/muhdshahan/Daily-DSA/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/muhdshahan/Daily-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhdshahan/Daily-DSA/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -12,11 +12,12 @@
 | [3871-count-commas-in-range-ii](https://github.com/muhdshahan/Daily-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/muhdshahan/Daily-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0575-distribute-candies](https://github.com/muhdshahan/Daily-DSA/tree/master/0575-distribute-candies) |
 | [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhdshahan/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muhdshahan/Daily-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/muhdshahan/Daily-DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muhdshahan/Daily-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -36,8 +37,8 @@
 | [3925-concatenate-array-with-reverse](https://github.com/muhdshahan/Daily-DSA/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/muhdshahan/Daily-DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0575-distribute-candies](https://github.com/muhdshahan/Daily-DSA/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/muhdshahan/Daily-DSA/tree/master/0771-jewels-and-stones) |
@@ -51,8 +52,8 @@
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/muhdshahan/Daily-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/muhdshahan/Daily-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/muhdshahan/Daily-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -61,30 +62,31 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muhdshahan/Daily-DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muhdshahan/Daily-DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3827-count-monobit-integers](https://github.com/muhdshahan/Daily-DSA/tree/main/3827-count-monobit-integers/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muhdshahan/Daily-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/muhdshahan/Daily-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/muhdshahan/Daily-DSA/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/muhdshahan/Daily-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhdshahan/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3794-reverse-string-prefix](https://github.com/muhdshahan/Daily-DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/muhdshahan/Daily-DSA/tree/main/3798-largest-even-number/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/muhdshahan/Daily-DSA/tree/main/3803-count-residue-prefixes/) | Easy |
@@ -93,34 +95,35 @@
 | [3884-first-matching-character-from-both-ends](https://github.com/muhdshahan/Daily-DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/muhdshahan/Daily-DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/muhdshahan/Daily-DSA/tree/master/0020-valid-parentheses) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/muhdshahan/Daily-DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muhdshahan/Daily-DSA/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/muhdshahan/Daily-DSA/tree/main/3978-unique-middle-element/) | Easy |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/muhdshahan/Daily-DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/muhdshahan/Daily-DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muhdshahan/Daily-DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3827-count-monobit-integers](https://github.com/muhdshahan/Daily-DSA/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/muhdshahan/Daily-DSA/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/muhdshahan/Daily-DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhdshahan/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muhdshahan/Daily-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muhdshahan/Daily-DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -128,23 +131,23 @@
 | [3842-toggle-light-bulbs](https://github.com/muhdshahan/Daily-DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muhdshahan/Daily-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/muhdshahan/Daily-DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1903-largest-odd-number-in-string](https://github.com/muhdshahan/Daily-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
